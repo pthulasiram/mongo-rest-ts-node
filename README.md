@@ -65,4 +65,4 @@ The default URL is: *https://localhost:3000*
 
 The key and cert in the config folder is for testing purpose only. You should generate your own.
 
-*Reference from [Lynda.com](https://www.lynda.com/Node-js-tutorials/Next-steps/633869/671263-4.html)*
+*Reference from [Lynda.com](https://www.lynda.com/Node-js-tutorials/Next-steps/633869/671263-4.html)*# mongo-rest-ts-node
